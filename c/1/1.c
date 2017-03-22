@@ -1,4 +1,3 @@
-
 int sum_div(int div1, int div2, int target) {
     int sum, i = 0;
 
